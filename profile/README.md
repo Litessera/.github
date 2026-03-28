@@ -1,6 +1,7 @@
 # Litessera
 
-A Litessera é uma iniciativa focada no desenvolvimento de tecnologia, pesquisa científica e produção de conteúdo especializado. A iniciativa atua na criação de projetos de código aberto para o bem público e no desenvolvimento de soluções proprietárias, fornecendo software e sistemas práticos para empresas, causas e instituições.
+A Litessera é uma iniciativa focada no desenvolvimento de tecnologia.
+A iniciativa atua no desenvolvimento de soluções proprietárias e projetos de código aberto, fornecendo software e sistemas práticos para empresas, causas e instituições.
 
 O trabalho integra a construção de ferramentas com a experimentação contínua. A organização projeta e testa utilitários e protótipos em diferentes estágios de evolução, documentando os processos e disponibilizando os projetos publicamente conforme atingem a maturidade necessária. 
 
